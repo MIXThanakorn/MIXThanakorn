@@ -3,7 +3,7 @@
 
 <hr/>
 
-* 🌏 I'm live in Bangkok ,Thailand.
+* 🌏 I'm live in Nakorn Pathom,Thailand.
 * 📡 You can contact me to my Email **kjn09402@gmail.com**
 * 💻 I have extensive experience in various programming languages and frameworks, including React, JavaScript, TypeScript, Next.js and Etc.
 
