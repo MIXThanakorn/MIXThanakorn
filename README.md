@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Thongpriawan</h1>
 <h3 align="center">Junior Programmer</h3>
 
-- 📫 How to reach me **kjn09402@gmail.com**
-
-- <hr/>
+<hr/>
 
 * 🌏 I'm live in Bangkok
-* 📡 You can contact me to my Email twayakorn08@gmail.com
+* 📡 You can contact me to my Email **kjn09402@gmail.com**
 * 💻 I have extensive experience in various programming languages and frameworks, including React, JavaScript, TypeScript, Next.js and Etc.
 
 <h3 align="left">Connect with me:</h3>
