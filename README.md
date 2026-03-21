@@ -3,7 +3,7 @@
 
 <hr/>
 
-* 🌏 I'm live in Bangkok Thailand.
+* 🌏 I'm live in Bangkok ,Thailand.
 * 📡 You can contact me to my Email **kjn09402@gmail.com**
 * 💻 I have extensive experience in various programming languages and frameworks, including React, JavaScript, TypeScript, Next.js and Etc.
 
@@ -43,6 +43,9 @@
   <a href="https://www.facebook.com/thanakorn.thong/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://www.instagram.com/lnw_mix/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
 
 
