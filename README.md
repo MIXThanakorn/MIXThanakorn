@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Thongpriawan</h1>
 <h3 align="center">Junior Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mixthanakorn" alt="mixthanakorn" /></a> </p>
-
 - 📫 How to reach me **kjn09402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
