@@ -3,15 +3,10 @@
 
 <hr/>
 
-* 🌏 I'm live in Bangkok
+* 🌏 I'm live in Bangkok Thailand.
 * 📡 You can contact me to my Email **kjn09402@gmail.com**
 * 💻 I have extensive experience in various programming languages and frameworks, including React, JavaScript, TypeScript, Next.js and Etc.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/thanakorn thong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanakorn thong" height="30" width="40" /></a>
-<a href="https://instagram.com/lnw_mix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lnw_mix" height="30" width="40" /></a>
-</p>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -35,4 +30,28 @@
 
 <hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mixthanakorn&show_icons=true&locale=en" alt="mixthanakorn" /></p>
+## 📱 Social Media
+
+
+<p align="left">
+  <a href="https://github.com/MIXThanakorn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
+  <a href="https://discord.com/users/626288353767063552" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/thanakorn.thong/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+
+<hr/>
+
+
+## 📊 Development Insights & Statistics
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6652410026ThayakornKoomphai&layout=compact&theme=vision-friendly-dark&hide_title=false&langs_count=10" alt="Top Languages" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=6652410026ThayakornKoomphai&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Overall Stats" height="192px" />
+</p>
