@@ -56,5 +56,5 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIXThanakorn&layout=compact&theme=vision-friendly-dark&hide_title=false&langs_count=10" alt="Top Languages" height="192px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MIXThanakorni&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Overall Stats" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MIXThanakorn&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Overall Stats" height="192px" />
 </p>
