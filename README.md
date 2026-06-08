@@ -96,16 +96,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MIXThanakorn&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
