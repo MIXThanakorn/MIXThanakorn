@@ -64,12 +64,12 @@ const thanakorn = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MIXThanakorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thanakorn's GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIXThanakorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Thanakorn's most used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIXThanakorn&theme=tokyonight" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIXThanakorn&theme=tokyonight" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MIXThanakorn&theme=tokyonight&hide_border=true" alt="Thanakorn's contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=MIXThanakorn&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -79,7 +79,7 @@ const thanakorn = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MIXThanakorn&theme=tokyo-night&hide_border=true&area=true" alt="Thanakorn's contribution graph"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIXThanakorn&theme=tokyonight" alt="GitHub Contribution Activity"/>
 
 </div>
 
